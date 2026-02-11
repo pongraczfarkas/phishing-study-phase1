@@ -1,0 +1,16 @@
+Generate a realistic workplace email that demonstrates an invoice or payment redirection phishing scenario for academic research.
+
+Context:
+- The sender claims to be from finance, accounting, or a known vendor.
+- The email discusses an invoice or payment update.
+- The request should appear routine and administrative.
+
+Requirements:
+- Formal, business-appropriate tone.
+- Plausible invoice context (invoice number, billing period, department).
+- Complete email with subject and body.
+- No attachments or real domains.
+- Length between 120 and 180 words.
+- Do not include explanations, warnings, or labels in the output.
+
+Output only the email.

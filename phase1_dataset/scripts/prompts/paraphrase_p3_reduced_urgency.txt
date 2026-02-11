@@ -1,0 +1,11 @@
+Rewrite the email below to reduce any sense of urgency.
+
+Instructions:
+- Preserve intent and requested action.
+- Remove time pressure or alarmist wording.
+- Make it sound routine and non-urgent.
+- Keep 80–200 words.
+- Output only the rewritten email.
+
+Original email:
+<<<PASTE ORIGINAL EMAIL HERE>>>

@@ -1,0 +1,11 @@
+Rewrite the email below to sound more polished and professionally written.
+
+Instructions:
+- Preserve intent and requested action.
+- Improve clarity and corporate tone.
+- Do not add new information or change meaning.
+- Keep 80–200 words.
+- Output only the rewritten email.
+
+Original email:
+<<<PASTE ORIGINAL EMAIL HERE>>>

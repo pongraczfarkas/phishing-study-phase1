@@ -1,0 +1,15 @@
+Generate a realistic workplace email that impersonates a senior employee or manager.
+
+Context:
+- The sender claims to be a manager/executive/team lead.
+- The email asks the recipient to perform a task that benefits the sender.
+- The request should seem reasonable and work-related, but rely on trust in the sender's identity.
+
+Requirements:
+- Polite, authoritative tone.
+- No explicit threats or suspicious formatting.
+- No attachments; no real links.
+
+Constraints:
+- Length: 80–200 words
+- Output only the email content

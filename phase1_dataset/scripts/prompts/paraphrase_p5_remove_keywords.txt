@@ -1,0 +1,11 @@
+Rewrite the email below to avoid common phishing-related keywords or phrases.
+
+Instructions:
+- Preserve intent and requested action.
+- Avoid words such as “urgent”, “verify immediately”, “suspended”, and similar.
+- Maintain a neutral, professional tone.
+- Keep 80–200 words.
+- Output only the rewritten email.
+
+Original email:
+<<<PASTE ORIGINAL EMAIL HERE>>>

@@ -1,0 +1,15 @@
+Generate a realistic workplace email related to account recovery or access verification.
+
+Context:
+- Sender claims to be support/account services.
+- States there was an access or verification issue.
+- Asks the recipient to follow steps to maintain or restore access.
+
+Requirements:
+- Calm, supportive tone.
+- Do not imply the recipient did something wrong.
+- If a link is needed, use a placeholder like https://secure-portal.example
+
+Constraints:
+- Length: 80–200 words
+- Output only the email content

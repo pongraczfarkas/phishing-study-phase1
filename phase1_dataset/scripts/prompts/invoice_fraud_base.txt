@@ -1,0 +1,15 @@
+Generate a realistic workplace email related to processing an invoice or payment.
+
+Context:
+- Sender claims to be finance/accounting or a known vendor contact.
+- Requests confirmation or processing of an invoice/payment.
+- Message should appear routine and administrative.
+
+Requirements:
+- Formal, professional tone.
+- Include plausible invoice context (invoice number, billing period, department).
+- No attachments; no real links.
+
+Constraints:
+- Length: 80–200 words
+- Output only the email content
