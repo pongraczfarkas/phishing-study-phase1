@@ -56,23 +56,23 @@ LEGIT_TARGET_TOTAL = 120
 
 # Prompt files
 PROMPT_FILES = {
-    "system": "prompts/system_master.txt",
+    "system": "prompts/system_master_v2.txt",
 
     # Phishing originals
-    "credential_theft": "prompts/credential_theft_base_v2.txt",
-    "impersonation": "prompts/impersonation_base_v2.txt",
-    "invoice_fraud": "prompts/invoice_fraud_base_v2.txt",
-    "account_recovery": "prompts/account_recovery_base_v2.txt",
+    "credential_theft": "prompts/credential_theft_base_v3.txt",
+    "impersonation": "prompts/impersonation_base_v3.txt",
+    "invoice_fraud": "prompts/invoice_fraud_base_v3.txt",
+    "account_recovery": "prompts/account_recovery_base_v3.txt",
 
     # Legit
-    "legit": "prompts/legit_base.txt",
+    "legit": "prompts/legit_base_v2.txt",
 
     # Paraphrases (must contain marker <<<PASTE ORIGINAL EMAIL HERE>>>)
-    "p1": "prompts/paraphrase_p1_professional.txt",
-    "p2": "prompts/paraphrase_p2_friendly.txt",
-    "p3": "prompts/paraphrase_p3_reduced_urgency.txt",
-    "p4": "prompts/paraphrase_p4_structural.txt",
-    "p5": "prompts/paraphrase_p5_remove_keywords.txt",
+    "p1": "prompts/paraphrase_p1_contextual_rephrasing_v2.txt",
+    "p2": "prompts/paraphrase_p2_embedded_action_v2.txt",
+    "p3": "prompts/paraphrase_p3_vocabulary_redistribution_v2.txt",
+    "p4": "prompts/paraphrase_p4_reduced_urgency_v2.txt",
+    "p5": "prompts/paraphrase_p5_operational_shift_v2.txt",
 }
 
 PARAPHRASE_STRATEGY_NAMES = {
@@ -97,15 +97,15 @@ RUN_LOG_PATH = os.path.join(LOGS_DIR, "run_log.jsonl")
 REJECTED_LOG_PATH = os.path.join(LOGS_DIR, "rejected.jsonl")
 
 # Optional subtle variation hints to prevent “samey” emails
-VARIATION_HINTS = [
-    "Reference an upcoming system update window.",
-    "Mention routine compliance with internal policy.",
-    "Mention maintaining uninterrupted access during maintenance.",
-    "Reference standard quarterly security procedures.",
-    "Mention a recent internal access review.",
-    "Mention scheduled maintenance of authentication services.",
-    "Use a calm, routine administrative tone.",
-]
+# VARIATION_HINTS = [
+#     "Reference an upcoming system update window.",
+#     "Mention routine compliance with internal policy.",
+#     "Mention maintaining uninterrupted access during maintenance.",
+#     "Reference standard quarterly security procedures.",
+#     "Mention a recent internal access review.",
+#     "Mention scheduled maintenance of authentication services.",
+#     "Use a calm, routine administrative tone.",
+# ]
 
 
 # ----------------------------
@@ -280,11 +280,11 @@ def generate_phishing_originals(gen: GenAIEmailGenerator) -> None:
 
         for i in range(start, target_n + 1):
             msgid = phish_id(scenario, i, "orig")
-            hint = VARIATION_HINTS[(i - 1) % len(VARIATION_HINTS)]
+            # hint = VARIATION_HINTS[(i - 1) % len(VARIATION_HINTS)]
 
             user_prompt = (
                 f"{base_prompt}\n\n"
-                f"Variation hint (apply subtly): {hint}\n"
+                # f"Variation hint (apply subtly): {hint}\n"
             )
 
             last_reason = ""
@@ -549,8 +549,8 @@ def generate_legitimate(gen: GenAIEmailGenerator) -> None:
 
     for i in range(start, LEGIT_TARGET_TOTAL + 1):
         msgid = legit_id(i)
-        hint = VARIATION_HINTS[(i - 1) % len(VARIATION_HINTS)]
-        user_prompt = f"{base_prompt}\n\nVariation hint (apply subtly): {hint}\n\nOutput only the email."
+        # hint = VARIATION_HINTS[(i - 1) % len(VARIATION_HINTS)]
+        user_prompt = base_prompt
 
         last_reason = ""
         for attempt in range(1, MAX_RETRIES + 1):

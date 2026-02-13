@@ -1,0 +1,3 @@
+Create a simulated workplace phishing email simulating an invoice fraud attack.
+
+It should resemble legitimate business correspondence.

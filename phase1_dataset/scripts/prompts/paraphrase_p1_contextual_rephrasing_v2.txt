@@ -1,0 +1,9 @@
+Rewrite the email so it keeps the same malicious action,
+but is framed as a different workplace situation.
+
+Keep the goal unchanged.
+Make it sound realistic.
+
+Output only the rewritten email.
+
+<<<PASTE ORIGINAL EMAIL HERE>>>

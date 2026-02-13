@@ -1,0 +1,8 @@
+Rewrite the email so it appears to come from a different department
+or operational context.
+
+Keep the same malicious action.
+
+Output only the rewritten email.
+
+<<<PASTE ORIGINAL EMAIL HERE>>>

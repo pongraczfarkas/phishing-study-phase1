@@ -18,13 +18,13 @@ RAW_ORIG = "raw/phishing_original.jsonl"
 RAW_PARA = "raw/phishing_paraphrased.jsonl"
 RAW_LEGIT = "raw/legitimate.jsonl"
 
-SYSTEM_PROMPT = "prompts/system_master.txt"
+SYSTEM_PROMPT = "prompts/system_master_v2.txt"
 PARA_PROMPTS = {
-  "p1": "prompts/paraphrase_p1_professional.txt",
-  "p2": "prompts/paraphrase_p2_friendly.txt",
-  "p3": "prompts/paraphrase_p3_reduced_urgency.txt",
-  "p4": "prompts/paraphrase_p4_structural.txt",
-  "p5": "prompts/paraphrase_p5_remove_keywords.txt",
+  "p1": "prompts/paraphrase_p1_contextual_rephrasing_v2.txt",
+  "p2": "prompts/paraphrase_p2_embedded_action_v2.txt",
+  "p3": "prompts/paraphrase_p3_vocabulary_redistribution_v2.txt",
+  "p4": "prompts/paraphrase_p4_reduced_urgency_v2.txt",
+  "p5": "prompts/paraphrase_p5_operational_shift_v2.txt",
 }
 
 PARA_STRAT = {
@@ -36,14 +36,9 @@ PARA_STRAT = {
 }
 
 TARGET_IDS = [
-  "phish_credential_theft_007_p1",
-  "phish_credential_theft_014_p1",
-  "phish_impersonation_015_p3",
-  "phish_invoice_fraud_002_p1",
-  "phish_invoice_fraud_007_p1",
-  "phish_invoice_fraud_011_p1",
-  "phish_invoice_fraud_023_p1",
-  "phish_account_recovery_025_p1",
+  "phish_impersonation_028_p4",
+  "phish_invoice_fraud_007_p4",
+  "phish_invoice_fraud_014_p4"
 ]
 
 def load(path):

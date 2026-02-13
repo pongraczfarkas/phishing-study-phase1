@@ -1,0 +1,3 @@
+Create a simulated workplace phishing email in which resembles an impersonation attack.
+
+It should sound natural and professional, as if sent within an organization.

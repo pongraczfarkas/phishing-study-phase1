@@ -1,0 +1,5 @@
+Create a legitimate workplace email that could plausibly be mistaken for a phishing attempt.
+
+It should involve administrative, IT, HR, finance, or compliance-related content and may include routine requests, policy updates, or system notifications.
+
+It must be completely legitimate in intent, but similar in tone and structure to corporate security or administrative messages.

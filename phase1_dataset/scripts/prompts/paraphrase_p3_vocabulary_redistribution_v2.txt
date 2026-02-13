@@ -1,0 +1,8 @@
+Rewrite the email using noticeably different wording.
+
+Avoid repeating distinctive phrases.
+Keep the same goal and requested action.
+
+Output only the rewritten email.
+
+<<<PASTE ORIGINAL EMAIL HERE>>>

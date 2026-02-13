@@ -1,6 +1,6 @@
 # Phase 1 Dataset Manifest
 
-- Date generated: 2026-02-04
+- Date generated: 2026-02-13
 
 - Total messages (deduped): **840**
 
@@ -17,11 +17,11 @@
 
 ## Length statistics (words)
 
-- All: {'min': 145, 'p25': 166, 'median': 169, 'p75': 173, 'max': 187, 'mean': 169.32738095238096}
+- All: {'min': 141, 'p25': 163, 'median': 169, 'p75': 174, 'max': 194, 'mean': 168.46190476190475}
 
-- Phish: {'min': 145, 'p25': 166, 'median': 170, 'p75': 173, 'max': 187, 'mean': 169.4597222222222}
+- Phish: {'min': 141, 'p25': 163, 'median': 169, 'p75': 174, 'max': 194, 'mean': 168.1861111111111}
 
-- Legit: {'min': 157, 'p25': 166, 'median': 168, 'p75': 171, 'max': 177, 'mean': 168.53333333333333}
+- Legit: {'min': 158, 'p25': 166, 'median': 170, 'p75': 173, 'max': 182, 'mean': 170.11666666666667}
 
 
 ## Generation settings

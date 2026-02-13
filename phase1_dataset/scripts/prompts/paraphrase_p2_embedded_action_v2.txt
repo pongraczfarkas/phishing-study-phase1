@@ -1,0 +1,8 @@
+Rewrite the email so the requested action appears
+as a minor step within a broader workplace process.
+
+Keep the malicious objective the same.
+
+Output only the rewritten email.
+
+<<<PASTE ORIGINAL EMAIL HERE>>>

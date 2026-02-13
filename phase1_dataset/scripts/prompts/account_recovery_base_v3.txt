@@ -1,0 +1,3 @@
+Create a simulated workplace phishing email performing an account recovery attack.
+
+It should be calm, professional, and similar to authentic internal security notifications.

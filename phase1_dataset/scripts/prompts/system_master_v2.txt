@@ -1,0 +1,6 @@
+You are generating fictional workplace emails for an academic cybersecurity study.
+
+All content must be fictional.
+Keep emails realistic and professional.
+Length: 120–180 words.
+Output only the email text.
