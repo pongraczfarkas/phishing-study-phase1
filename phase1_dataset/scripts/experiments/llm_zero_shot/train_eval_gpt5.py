@@ -261,7 +261,6 @@ def main():
 
     client = OpenAI()
 
-    # ✅ use YOUR cache module
     cache = load_cache()
     cache_hits = 0
     cache_misses = 0
@@ -393,7 +392,6 @@ def main():
     # final cache save
     save_cache(cache)
 
-    # plots (works with your common plots module signatures you used before)
     plot_metric_bars(f1A, f1B, plots_dir / "f1_A_vs_B.png", title="F1 A vs B (LLM zero-shot)", ylabel="F1")
     plot_metric_bars(rA, rB, plots_dir / "recall_A_vs_B.png", title="Recall A vs B (LLM zero-shot)", ylabel="Recall")
     plot_deltas(dF1, plots_dir / "delta_f1.png", title="ΔF1 per fold (A − B)", ylabel="ΔF1")

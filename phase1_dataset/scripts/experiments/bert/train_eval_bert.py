@@ -62,7 +62,6 @@ def compute_group_id(df: pd.DataFrame) -> pd.Series:
 
 
 def to_hf_dataset(df: pd.DataFrame) -> Dataset:
-    # Trainer expects the label column to be named "labels"
     return Dataset.from_dict(
         {
             "text": df["text"].astype(str).tolist(),
@@ -112,7 +111,7 @@ def tokenize(ds: Dataset, tokenizer, max_len: int) -> Dataset:
 
 
 # -----------------------------
-# Version-robust TrainingArguments builder
+# TrainingArguments builder
 # -----------------------------
 def make_training_args_kwargs(**kwargs) -> dict:
     """
@@ -138,7 +137,6 @@ def make_training_args_kwargs(**kwargs) -> dict:
         if k not in params:
             out.pop(k)
 
-    # Remove None values (older versions sometimes dislike explicit None)
     for k in list(out.keys()):
         if out[k] is None:
             out.pop(k)
@@ -201,7 +199,6 @@ def main():
 
     args = ap.parse_args()
 
-    # Windows/tokenizers can over-parallelize
     os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
 
     set_seed(args.seed)
@@ -293,8 +290,6 @@ def main():
         fold_outdir = plots_dir / f"fold_{fold_i}"
         fold_outdir.mkdir(parents=True, exist_ok=True)
 
-        # Warmup steps (warmup_ratio is deprecated in newer versions)
-        # We compute from an estimate of total steps.
         steps_per_epoch = int(np.ceil(len(train_split) / max(args.batch_size, 1)))
         total_steps = max(1, steps_per_epoch * max(args.epochs, 1))
         warmup_steps = int(total_steps * float(args.warmup_ratio))
@@ -433,7 +428,6 @@ def main():
 
     out_path.write_text(json.dumps(out, indent=2), encoding="utf-8")
 
-    # Plots (same API as your other models)
     plot_metric_bars(f1A, f1B, plots_dir / "f1_A_vs_B.png", title="BERT F1: Condition A vs B", ylabel="F1")
     plot_metric_bars(rA, rB, plots_dir / "recall_A_vs_B.png", title="BERT Recall: Condition A vs B", ylabel="Recall")
     plot_deltas(dF1, plots_dir / "delta_f1.png", title="BERT ΔF1 per fold (A − B)", ylabel="ΔF1")

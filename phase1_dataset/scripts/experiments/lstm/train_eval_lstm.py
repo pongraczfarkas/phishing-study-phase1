@@ -178,8 +178,6 @@ class PackedAttnBiLSTM(nn.Module):
         out, _ = pad_packed_sequence(packed_out, batch_first=True)  # (B, Tmax, 2H)
         out = self.norm(out)
 
-        # key_padding_mask: True where we want to mask (PAD)
-        # out is variable Tmax, so create mask from lengths
         B, Tmax, _ = out.shape
         idxs = torch.arange(Tmax, device=out.device).unsqueeze(0).expand(B, Tmax)
         key_padding_mask = idxs >= lengths.unsqueeze(1)  # (B, Tmax)
@@ -338,7 +336,7 @@ def predict(model: PackedAttnBiLSTM, texts: List[str], max_len: int, device: tor
 
 
 # ----------------------------
-# Main (Grouped CV, same protocol)
+# Main
 # ----------------------------
 def main():
     ap = argparse.ArgumentParser()
