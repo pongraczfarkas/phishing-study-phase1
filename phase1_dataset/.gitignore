@@ -214,3 +214,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.DS_Store
+Thumbs.db
+
+# --- HuggingFace / Transformers caches ---
+.cache/
+**/.cache/
+**/huggingface/**
+
+scripts/experiments/**/results/fold_*/
+scripts/experiments/**/results/**/ckpt*/
+scripts/experiments/**/results/**/checkpoint-*/
+
+scripts/experiments/**/results/**/*.bin
+scripts/experiments/**/results/**/*.pt
+scripts/experiments/**/results/**/*.pth
+scripts/experiments/**/results/**/*.safetensors
+scripts/experiments/**/results/**/model.safetensors
+scripts/experiments/**/results/**/pytorch_model*
+scripts/experiments/**/results/**/optimizer.pt
+scripts/experiments/**/results/**/scheduler.pt
+scripts/experiments/**/results/**/trainer_state.json
+scripts/experiments/**/results/**/rng_state.pth
+
+!scripts/experiments/**/results/*.json
+!scripts/experiments/**/results/*.png
+!scripts/experiments/**/results/*.md

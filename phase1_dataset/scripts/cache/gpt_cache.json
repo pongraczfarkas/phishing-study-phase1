@@ -1,0 +1,6662 @@
+{
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|47d74f8900b588fd14052452ea076dc26fa38fcbef4ce46068bf8751325b0c10": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.87,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|9cd28e827bdd5d9e55e3a7807d399edd4eedadbaf43ea5ab88a6f161e60593ff": {
+    "label": "phish",
+    "confidence": 0.7999999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.83,
+      0.78,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e2f364444dc57006dbd4c9ccba965adceb481202d697a253f46a5fd7bddeddf8": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a8973da9f0bfb94442a86298318fbdf16efee142d1fd161f137640f41d226185": {
+    "label": "phish",
+    "confidence": 0.82,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.78,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f7bd63c90d0b684a4ddf1008827bc1c6e9b95d11b2cf68ace318a0e634d6e1ee": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.82,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8ca7a9173bf2a715aca5b80fa49d4f6e8ed27aabd5c137e5bcf2b3f427ae1eb4": {
+    "label": "legit",
+    "confidence": 0.6000000000000001,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.56,
+      0.62,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d6c753b991d349e13434b8bfebc7bbccf75b2716c57a7b74d9a0091b562c4652": {
+    "label": "legit",
+    "confidence": 0.62,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.56,
+      0.73,
+      0.57
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|36fe921104ac53ce98766a391b801a9ecae581c9a1061d68938b2ffc24c6da32": {
+    "label": "legit",
+    "confidence": 0.5533333333333333,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.57,
+      0.56,
+      0.53
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|4f5ee07bdc2cace3c854a305b4d9e605b0415c05fbc0a08b9b2c71028ca87745": {
+    "label": "phish",
+    "confidence": 0.9166666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|316b21e2c606a004ac3c89daa4c88b0fcf9cdf8195313b2ed18dc459081a9775": {
+    "label": "legit",
+    "confidence": 0.6733333333333333,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.68,
+      0.62,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|26b8bfeffcab575b842692eb18da089e048cd35db3fe7bedb308e04b2ae29100": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e2e4c4c191df2ea8c2988e069cd63fc835bbb11c3b63905adb1c88a9bc24bed6": {
+    "label": "phish",
+    "confidence": 0.8233333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.8,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|89be6b202dc1e7cbfaca8945f687f8ec589d683cba823a8d986726c7260e605e": {
+    "label": "phish",
+    "confidence": 0.8133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.82,
+      0.8
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|fdd94b6c3b655f9e2cde04812cfff9f3221b8400c027a716483282c0517ca8f0": {
+    "label": "phish",
+    "confidence": 0.59,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.43,
+      0.67,
+      0.67
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a6c4cb03aa850e5ed0a61bb51b60d4f3fb03d8a6c86ba325e14de3b19c12c6c3": {
+    "label": "legit",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f5785ba621b6e741aecac2dd957539df234f7da098628e1835d5d3e7f4489dc5": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.9,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d223cee71f9a31bb1cdfabff8f6f683e4e6ca93203f0c97ead0a2d1d085ea433": {
+    "label": "legit",
+    "confidence": 0.6733333333333333,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.74,
+      0.82,
+      0.46
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|68951c5c4de57222df3f4f8b9b07b0964622603829a03c0bff85f4e64723b5fa": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.76,
+      0.82,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a58e112c435476c11f53e003dc2f1ae9fa3ab990814631ad742ccfa6f50dfc1a": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.89,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5a6516ca5ce9c8dffd62285b7473b23bfb5b794116342772f21e47685fac1869": {
+    "label": "phish",
+    "confidence": 0.7433333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.74,
+      0.7,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d0f4f04fe70feb883f33f5126018bd03ce0a7af7d55d233739aec828f5d6c4ca": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.92,
+      0.96
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f7404d0bc547084e9712e9e7084a66768cb9feac80de43f68150997e743c5955": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.86,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d4bdf3c822d9b8aae484d48abf98d1e8716f39608e6b603419e1e564f119ba11": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|67a367a75a435ee4b39156b898f1d8f9f3bf76a3d527abf1988b0dc9c8bafbe9": {
+    "label": "phish",
+    "confidence": 0.9033333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.95,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ca9675a0e5be098529df07317c3fe12ee1de8f1d6ee892a18192c29783f93a45": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.84,
+      0.88,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|93388d33e65cf8d257ba5892df3773542352c807b9b399ad114a64b9ddf8541a": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.8,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2951921e1a9b67b21c8b1a6c7df5d12edd21e674bf7f64ee26ec1704e4dbe8e0": {
+    "label": "phish",
+    "confidence": 0.6666666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.62,
+      0.66,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|87fc6651ec0b0ff36a6e38c7d26bae0afe91c81def08651fd340470659143d42": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.87,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|0acf58d2ed49745ab6d21f0c06b70bf5fb090c5e36ad301e21ce6c804d4dd07b": {
+    "label": "phish",
+    "confidence": 0.8833333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.9,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b2c4e48fc659e8da6d86b5c1909a191f63ebd40d2250f4e757bd45a763ac6c61": {
+    "label": "phish",
+    "confidence": 0.8433333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.85,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ab11e209ca08ce003782e34699d8cb838d5522ba339ec2134cdcd25aa18438aa": {
+    "label": "phish",
+    "confidence": 0.8066666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.78,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8ffe329d2e83f6dfd49d610233faea1cae59ef887423e4c81ff3d716b294eec7": {
+    "label": "legit",
+    "confidence": 0.7799999999999999,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.81,
+      0.88,
+      0.65
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|738cb1398bf743e77ed5e4ab78f2787a2d7207023067c4f55bccddb4d52653e0": {
+    "label": "legit",
+    "confidence": 0.31666666666666665,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.22,
+      0.28,
+      0.45
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bb012a3dda6bb57deb9c0f436cd749e7c4267c56e1413831c578c34e80423e8b": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.83,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|04ddc2c093954c2951fdc6e306aa765dcc87a7d39ba86e47a63416b47bf4e088": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|87bde1cc7bc62f10d8edf582581b223180c4563f7f95b1adb48a38fe825c4aa7": {
+    "label": "phish",
+    "confidence": 0.7999999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.76,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|882897e47c11207312272ab6c7533ce5186c711c2d121f5ef1daca6e4f2d9345": {
+    "label": "phish",
+    "confidence": 0.8799999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.83,
+      0.95,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5b05635ab1a7396d49f2f835f6a6383ce5ea7dda28306e38d38a140ff17b8e27": {
+    "label": "legit",
+    "confidence": 0.39666666666666667,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.35,
+      0.39,
+      0.45
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cfcb4fa33098b070d73b15330524279d96a1183af8f4e36c5d5ec52d851b1887": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.82,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3f93e7b2424773a19c63da87c41437d41c556629752b791b90710504a4bc0617": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.86,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8260ec4bff4f39f9e10e4fdbd631da22064e9c126e2c1342294d43e2641e5eff": {
+    "label": "phish",
+    "confidence": 0.85,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.87,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bf44bf3fd4ae7343c467c35957e42cfcfc8a67fccd5456065874485284b91eca": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.83,
+      0.92,
+      0.93
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ef7c8c2ed0ad772212779e94bc527d4367c5d8ab8b294fbd79bc6492a255cae3": {
+    "label": "phish",
+    "confidence": 0.5833333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.62,
+      0.51,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|461cb15b29a46c6bec3f790ec790bbaffb8957016abdfb824dd940a63bc549ea": {
+    "label": "phish",
+    "confidence": 0.7166666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.74,
+      0.69,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c8909cce9d3e24742fcf7c3a41d6ef3671a1e08c9e41633a756258664cf86860": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.92,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6941750dbc2132a80ebe2c28c3a27b1f300fbc67f0a9d87554dcaff656c2b44b": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.92,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|afae40a86934a3152ad8030eea54e47cbc10f25a8a549ad6948d93ec1561ca0b": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e4a08b41930911f603a8d30884abfd160923afa7cd243a49cc10dae32a9790b0": {
+    "label": "phish",
+    "confidence": 0.9266666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.92,
+      0.95
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b79be6897735d2781a8df6b7880e15065f782260adb426db88d3606250ecc357": {
+    "label": "phish",
+    "confidence": 0.85,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bdde9d9fd632a215cc1532f73308ba1ecdf1b87810ab608afcd0e0c458003fad": {
+    "label": "phish",
+    "confidence": 0.84,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.79,
+      0.87,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|88b083e51e34b426e72f2cd544b0ce78898033acbf4e9ac2da473ca85476f700": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.9,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3161d283383ea0e5351fb9f7cd9b43d8d9970739fa3162c087ee9d58632d87ce": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.85,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|604c8850ee2a037439cf413d481fcdd53196c072409f19f462829171bbbe02b4": {
+    "label": "phish",
+    "confidence": 0.8433333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.87,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d16a835ff02ab2d7340bd2d8afb03d3412214932d8e1d09938296b8d76259795": {
+    "label": "phish",
+    "confidence": 0.8533333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.82,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7dca448c01219fbdb8ef02ed068f03f8e6ec082e65bdd63e229c488b9acac566": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.91,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8f355dfa8222746493095fe25b804052ec7f191ab966985aa436fcf862445446": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.91,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|09dfd7cc4ef9bdde4f78c31791ee4be761597f4a388cc68790a2ea52d5d78d9d": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.82,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f241c37b6cdef8c10955ff9830c722d773e55259320ef61b6b4b47d751610a0b": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.9,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|1e96ec47fd66b942fc83adc5f4421aaa3b488e6756f14e61bcee84f3ecb758e3": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.86,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|1532f1ba741c1e245af9bbfae1cae6cd1267c44cf51bed4755ccb4bef6200b59": {
+    "label": "phish",
+    "confidence": 0.82,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.84,
+      0.9,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|182fc902a0f8a4d91676633efec11dee24180a15c12b9e9b5bad2660ce7cec92": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.91,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d6061ba3eb5861ea8dbd6a6e4f2d418dd90370462565de54350566d9c67052b7": {
+    "label": "phish",
+    "confidence": 0.7966666666666665,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.81,
+      0.86,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a5db437c410e54a830ec3f25355db9a0e6ba47a2c6e8485522afa8f1e5b07545": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|54fb5d6daa287c78ecef681ee90b758dbdcf5c41abdf15cf381b2c5d17da3bc8": {
+    "label": "phish",
+    "confidence": 0.8766666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.85,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|397ca847a9e087e516f1e31a8704b3924ff0258572eccb21ee5135de0d9c6bf9": {
+    "label": "phish",
+    "confidence": 0.89,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.92,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8d8bf8c8b34aeaa9d5d6ebcb3d81fd26b567fe92393906f226096e05664fe841": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.84,
+      0.82,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a22e203a86d268b7609422096636ef56c48659a8fdb540acd0b0b6fe366ea441": {
+    "label": "phish",
+    "confidence": 0.8833333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.87,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c76cabfce81d686883c32227bafd9979b3b602f6540efedab68ad96d4f1a6ff0": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.85,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ce5904831870c998e50464497726c6a58da52f545500b35394a87bedbfe2ba54": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.9,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3b71795c0b4c5320b58e8c536f0ee7e5f5f550bbaa8b960efcdfc7d300513973": {
+    "label": "phish",
+    "confidence": 0.9199999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.9,
+      0.95
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|88bdfe4d6c7f497ab97ee9635e0749970a75a83ee1b34b5f8a5febb8b8f47c94": {
+    "label": "phish",
+    "confidence": 0.8633333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.86,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|37b78da9011ce961df9e90079eec245c33049cdf90fe8c592ff9056e81ddc526": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.83,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|af54a65b0c5e4464638646c85e0bfeef88049821c22989497ab3afa8f56709d9": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.92,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cb33aab2434728158e5f424769d58907ae84f30514d6b1ad4d1db33bf335391e": {
+    "label": "phish",
+    "confidence": 0.8700000000000001,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.77
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|36aae805083d55320c81e5b056231c13b474a21a494f54f46accd6b261f8b1ae": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|95cf1fdbb6e86e11d7b6ed521fc7bc1d7520c9d07c10d369b06be92a9f30e291": {
+    "label": "legit",
+    "confidence": 0.5299999999999999,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.36,
+      0.62,
+      0.61
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bcf22d50d0ff5e7796fe8e74f72684dce21b6b00d3bad722e2a6bb8e037841a8": {
+    "label": "phish",
+    "confidence": 0.8633333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.81
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f63b4945e5f6be4a4a3abdcd1b64af99bb59fd212c7c7295c9408f358775c50a": {
+    "label": "phish",
+    "confidence": 0.7666666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.78,
+      0.8
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e98f9d2663cae49584e195a8ec15748ee8ebedf12527266290296ecbe7cff401": {
+    "label": "phish",
+    "confidence": 0.9166666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2ee5eed4ca14b2a5f4ed89ccff53131db314b2df1a45843ef1922ec1723ba0ca": {
+    "label": "legit",
+    "confidence": 0.38999999999999996,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.53,
+      0.35,
+      0.29
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cea8723241d8faa5e35d6088b87759e7cca3ce23399fecb6bf534d07775ee5d4": {
+    "label": "legit",
+    "confidence": 0.5200000000000001,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.68,
+      0.54,
+      0.34
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|851c962df1f76de4b51902b4edcb50626d0341fbf3486a4250a9553f1049b9db": {
+    "label": "legit",
+    "confidence": 0.6,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.58,
+      0.6,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e969370d2b90316c8eedc1ee3c576d12878fcda993cb1ff125d52922fa04790f": {
+    "label": "phish",
+    "confidence": 0.8833333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.87,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8d87640818bd4f31a6a023f705926116bf9f7f86df26feb7b5c47ff775f44f91": {
+    "label": "legit",
+    "confidence": 0.7799999999999999,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.77,
+      0.72,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|eab078401095c88cbf86e22253e3139a6b75af0dc4f2e2a1c219bba628435322": {
+    "label": "phish",
+    "confidence": 0.7966666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.76,
+      0.81
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|962545492feb97d1197465c54a8c296e90228db72938bad98f34f41e0fb685d7": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.87,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|158ec77b8d9f37be4d752203a16d488e36c56574625aa29fd0d18da2ea09c394": {
+    "label": "legit",
+    "confidence": 0.4933333333333334,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.53,
+      0.65,
+      0.3
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b45ce601d6860c3ec1a5f2991a1187e716f03d391a7cae54b959efe882207036": {
+    "label": "legit",
+    "confidence": 0.48,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.63,
+      0.36,
+      0.45
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2bd5574fe6960509a746022f7ce5c6caa3fbb247ace6ae3e0120b4afe6e1bce1": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.88,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d5da4c6d4a9d958233d91d77f35215e79e628dfd528cfb0fec2d0ca484bff31a": {
+    "label": "phish",
+    "confidence": 0.9033333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.92,
+      0.93
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|47c9f244ea66595c884ee5398aa7b7787a141ad3586f194b732e26c295d23362": {
+    "label": "legit",
+    "confidence": 0.6699999999999999,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.73,
+      0.56,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bd4b7fe71c505a8dc2d9ea557b272783c80f0e5564110a01f0da68e2cc8d8721": {
+    "label": "phish",
+    "confidence": 0.8533333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.84,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|09a439244692711639465a4da4123cc2d1a40ddb97df1e3d5da7887b6340859d": {
+    "label": "phish",
+    "confidence": 0.9066666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.95,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|221a894536c2e693a143538e0d04ea6d3b0a518250e08cc782ef631c923034da": {
+    "label": "phish",
+    "confidence": 0.82,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.86,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6fd075808c46385b183b7552f7a782b67752bf24a8285e1eba33bc88a1895018": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.86,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|0c9549cd31deaedc2ef0ab5dda7fb2061d0b4a71fbd8995f90c41f5f3a8959c8": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|124fb45f3dd453a0c0daeb44c46615ce48b1912b77f2aca3ab29dfe3e664c9ce": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.92,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ce6192487dcc25612b1668e7aeaa597b45eb54954c15da30053b0bdfc64d825a": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.9,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2bdc6306cb4dca100641a5986986db61bc071725250472fe703335b9708d3a35": {
+    "label": "phish",
+    "confidence": 0.8566666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2a0c732139e234c599e9792b07e27309d5e85893906e36897dc9ac694d013269": {
+    "label": "phish",
+    "confidence": 0.75,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.73,
+      0.82,
+      0.7
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c776710e24cb8d3c671ef7ac62248e62b8b919510a7903216ef126b0c6717e8c": {
+    "label": "phish",
+    "confidence": 0.84,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.81,
+      0.93
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|44d5a846d9ce110b2080185949d13cc933d7f7a0ba4ec7ea7859838a37c47a5c": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.92,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6d5c23dfa21b3bf9755eb14b234c823aaf7155f3852b8d5c99a62823031e845c": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|dbca1de5a825b2aa8375838f56db3b2b8d1b8c3d22d23c885b410a2555d50ec4": {
+    "label": "legit",
+    "confidence": 0.7200000000000001,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.68,
+      0.72,
+      0.76
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|19fff6650c9b77719e7c04bea0d1d6ac1447b4311f42e9a80f869b43a94fda7c": {
+    "label": "legit",
+    "confidence": 0.6533333333333333,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.68,
+      0.66,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|82db48f9979848b1f91b8548f59d00297d7002c41521343973ca9b23b9efb7c8": {
+    "label": "legit",
+    "confidence": 0.5366666666666666,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.55,
+      0.35,
+      0.71
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|4cd44ee582ec11a88c45754096585a3938f9ca2410db8da7ee1eef9ef38199b1": {
+    "label": "phish",
+    "confidence": 0.7799999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.84,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3e87a08f923c6c8518e227881fad0e2b1c608aafec31dad76b6314e764e2208c": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|501673f2632c9c194600878b7ad0ad6c4040a27d2f830e5f6accdaf4b4cdc27e": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.86,
+      0.93
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b07bbdd3e2c33d460b076b2ebf53fe5066023305ed3e9600f7fc442e62470c47": {
+    "label": "phish",
+    "confidence": 0.68,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.76,
+      0.46,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5dd8a639890addafe3383a8026b2ab391056f99f30dd9b391f3614a2e21fd94b": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.83,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ba11f8a1c1cd4406a014ac6f0f2778056ecc4062b55eaf042a77a40c024033b2": {
+    "label": "phish",
+    "confidence": 0.85,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.85,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|9bf730b182b6a93a602d8e5b2f6e7b3dd8775133bb535fd63204f0ff9caff0c6": {
+    "label": "phish",
+    "confidence": 0.8533333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.91,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|415513930b44da5187204f590bbe4bfe89757e047e4b2cebd21115ad274a0533": {
+    "label": "phish",
+    "confidence": 0.7966666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.79,
+      0.78,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|504674fc93f46ad048f57fa68db705937417171c4bcafc0c94f1976138fe37ed": {
+    "label": "phish",
+    "confidence": 0.8999999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.94,
+      0.88,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f9164be80296ce7c0af0f535abb952f9240adfbe58548b079fac28fa1354cb88": {
+    "label": "phish",
+    "confidence": 0.7233333333333333,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.58,
+      0.74,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7e6105a9bad01863828920b9e1415bb53bf398ddbd45356457a2f22f458ee576": {
+    "label": "legit",
+    "confidence": 0.58,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.57,
+      0.72,
+      0.45
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|654408c43227550e200163ba1819a3bd4434dc7e39f450f3826fa3db4c538562": {
+    "label": "phish",
+    "confidence": 0.7866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.8,
+      0.7
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|809eb03d970935f250a15efb3f30b992ad82802aa04fa957dcc77efa3153e11a": {
+    "label": "phish",
+    "confidence": 0.8833333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.92,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|4f9c5e454532e308d4ee3ed2d9df1b648ce9f3d2f1052ad16a6b637670209c3d": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.91,
+      0.81
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e64dae4f176f8f65ce80b809c2dbc56737f69eb263075e9e03b28c79f2453346": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.82,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b91c6caa4bfe9e09bcde854a8c436a95446153f16ed0a64eeba777f38fd6e201": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.96
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|1865394d2081c8797f43c3ac1d39c099ef8bef2483c473cb8c25c89fa7d517f1": {
+    "label": "phish",
+    "confidence": 0.8833333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.95,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|9eb9e7de61be95c79d9fac6d3b69e4820b85652658cc2ccbc7fb06f9f26114d7": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|216599eaf7ae814c41dc9c8316aaf182cd3b1dd6b77eb98c4c75bc1e86d73289": {
+    "label": "phish",
+    "confidence": 0.8566666666666668,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.76,
+      0.92,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|eea9891fbb1c143eabc0e859e8850ad02700c1c585705d073cd96b140e8ab3aa": {
+    "label": "phish",
+    "confidence": 0.8633333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|255a463da452222017defb48354d01bd50c1d86034cf954864fce4eb7b0e1f69": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.93,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d6eb8e812e96c5af7b1b27948cf299e1c890db8983aeaed3d565c639edbc6df9": {
+    "label": "legit",
+    "confidence": 0.3733333333333333,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.21,
+      0.48,
+      0.43
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cfb0a9d9ace2f5640869e1efa74bd3ec0b4d205baa26f7c60217d39f219a09f7": {
+    "label": "phish",
+    "confidence": 0.7766666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.68,
+      0.8
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|4acd17b2a48fc14b9d0a2943ba085f488f13b764efa1757a40a491484aa79b4e": {
+    "label": "phish",
+    "confidence": 0.8066666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.86,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|85571fcd8df3f80f6c95f482e4ac6d241042764328b81a912cb60f99a757f19b": {
+    "label": "phish",
+    "confidence": 0.7399999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.74,
+      0.7
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2ecd59909315047686b5213de118a75ed5f9d63b4be0f5a446cab668bfb2e37f": {
+    "label": "phish",
+    "confidence": 0.7966666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.84,
+      0.67,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|0f295625b39ca1be5c895f2f58a9ddf07261e7b445e3412fae87587e38396832": {
+    "label": "phish",
+    "confidence": 0.8366666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.8,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e1c517eff3cada01c6497fc0f62ef998d1cc97f6cd53bb68ee61a15bbc1cf6c8": {
+    "label": "phish",
+    "confidence": 0.64,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.72,
+      0.42
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c26bce0d001e06a04c5e0212057d77c7a10031b2e7f4cdcc9ee0aeafe31d686e": {
+    "label": "phish",
+    "confidence": 0.8366666666666668,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.8,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|857e4d898a157eaec27b80cfd09e64bb02ed70f91178e8b0abc101e0f0451c20": {
+    "label": "phish",
+    "confidence": 0.9166666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ac204df18eea52265a87bb9258746c77527be846cd8464c47af6c1d8a1863151": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.86,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|47219aaab1574f8443553c69c99efeca8575511fa5b7426fd5fd81cf58c47831": {
+    "label": "phish",
+    "confidence": 0.8833333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.82,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2ea78229f89bcbe82d46ee4f34e29278b60dc985d851fcd16b832b021e054b07": {
+    "label": "phish",
+    "confidence": 0.8033333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.66,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6ccab975f13bc337994ddb7c0b4d2c8f4bfdd19abcc923d6611871960867b7b3": {
+    "label": "phish",
+    "confidence": 0.8099999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.82,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|50f41d221752a57c3d6fd4a1955e039da6f040bd79bc47548b37efc392f706c0": {
+    "label": "phish",
+    "confidence": 0.89,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.86,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ef3c052be4159769166028357b8b73863c579bd8423234c0e807c08612510ef0": {
+    "label": "legit",
+    "confidence": 0.4033333333333333,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.57,
+      0.49,
+      0.15
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|086b218bf4edbefbf40054a9ef149a76059f4b528aba8e655a6b97821fc24d60": {
+    "label": "phish",
+    "confidence": 0.8566666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.82,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|23857cea0d56325af58b9fe7e7734eccd204f0b19bb59a54c15618790546bc07": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.92,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f95de5c9aaa75f0d1ade6aeaaabda7abbf3ec7b7613b533c6168ec4a76b1798f": {
+    "label": "legit",
+    "confidence": 0.5833333333333334,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.58,
+      0.62,
+      0.55
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3678efa22420c3957663e05036f9c8c58fb9b7189418f141c386180225cdc59f": {
+    "label": "phish",
+    "confidence": 0.9066666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.94,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d92f93d1aa669eefaea5f7de3762ba937c7709d8208debec28067e47a98eafb6": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|702ca3a922d65342b306ec4421c74a6882491d54d7fe8f4d5e5a9b10650b51a6": {
+    "label": "phish",
+    "confidence": 0.85,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.83,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|42dca0935cf606cafa4c7ac8068552a0006564f9900158e57c13b63756d74c53": {
+    "label": "phish",
+    "confidence": 0.9266666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.95,
+      0.91,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2f0eb31b0fbea1e58bafe44b3d07584c75ac8de9d2ca661f663c37f59aab662b": {
+    "label": "phish",
+    "confidence": 0.71,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.63,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|371c85d6609ac19fa2607e59cb58fbefc22c25b16d145ee0d05e36254d56da05": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.84,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|aed4fb0c29c57fd4103b8f6667ac92709d457406f6503ed3dab40c059262f478": {
+    "label": "phish",
+    "confidence": 0.85,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.91,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3b24df8dadf9cd1ba6d0ba0052865c2c0968dd399b64082415a670db01171c4b": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.89,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a40051b5bcc996006da3ebd3d81883b543a6e2302cc44bc1efcbf33a95f2221a": {
+    "label": "phish",
+    "confidence": 0.6266666666666667,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.48,
+      0.62,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f3b9e7e0b4df7e9c6a974c611727d140edcd552b7327c24335b425475bb04979": {
+    "label": "phish",
+    "confidence": 0.7966666666666665,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.85,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8393b35011710888bf6a10900a42201161127aa25b53a2d49b99832f0408ca7e": {
+    "label": "phish",
+    "confidence": 0.7366666666666667,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.57,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3d28193d37c40e60474dec60a36664163b15d77b490fa3ba18371ede724930e2": {
+    "label": "phish",
+    "confidence": 0.9066666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.9,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|1cd8f87b3402deeb301b21ef5fad0c7d4335f904d5193b33363e228b743a08ad": {
+    "label": "legit",
+    "confidence": 0.4266666666666666,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.36,
+      0.57,
+      0.35
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8daf1e7f2ca258c319d88c4056013e864fefc9a9a16bc18b2b3167712fce8af0": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.86,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8ab017b76b91c394c558164fb0e1ddc39529c7df9e4c2446a81383ffb532fd36": {
+    "label": "phish",
+    "confidence": 0.8300000000000001,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.72,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|4d52905f90c0a7e38cc45228d75571625f43e71e959e8cec4ba63b629fc442c4": {
+    "label": "phish",
+    "confidence": 0.84,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.82,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7ef7f34cd215402e76911643695efc2f8c505a17b3732b24e6d16c1341b924ba": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.86,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c3b0e76a5d739460fdc249a20342a74e02054b4bdc1014617fa7c175d088004b": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.86,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|66000724dbb62ad568cb032cc2ca957938ae43034e8022565c49c4453d34a665": {
+    "label": "phish",
+    "confidence": 0.9133333333333332,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.96,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3bd873395dc8ee83328841c01976858d528dda111a64c06e9b88ad27bd1a1b13": {
+    "label": "legit",
+    "confidence": 0.43333333333333335,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.6,
+      0.25,
+      0.45
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3af6908eb1c87ad7b1953080681fffea925060eadc8ddbf083ea1743d77624b2": {
+    "label": "phish",
+    "confidence": 0.7733333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.74,
+      0.72,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7afa0cb133fde5811ad20a97a4d5a7a86e9fb78f0230fddb65ca5e6329fad951": {
+    "label": "phish",
+    "confidence": 0.8766666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.9,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3d649e38886063a5735a2ce88e2d3fa45a28990792d756359c1a369407f879a1": {
+    "label": "phish",
+    "confidence": 0.8766666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.86,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|beb271ac7d2f591379a39c62846e9d183228ba098422e1b37277c60bc7ed51a2": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.83,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cc81a78042ba0f466d5a88fa7f416ab7a5c7aa710bd96c9bb0623308f75f5ca9": {
+    "label": "phish",
+    "confidence": 0.8366666666666668,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.8,
+      0.86,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cf5bf78f8bd8d3160e17c5127df2cbfc9a50af90f9f66d66cded474b292e67b7": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.71,
+      0.87,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a671931e7f8741bc29702ba3b699346b046842b80d3689a23f830c0896f096dc": {
+    "label": "phish",
+    "confidence": 0.92,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c4eedd901e70b606927a0bf6717bab1756438bff683daeae05d6d9bbd8a7a4ff": {
+    "label": "phish",
+    "confidence": 0.9066666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|18b89b2d8ae0e7549a832bd7846d62d11f941dbabb6dd426a89a2844e5fa5a8d": {
+    "label": "phish",
+    "confidence": 0.8766666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.86,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|fad63655cfcc5cccf522c662ca46b70240f6a0a25dbf14c03557b04b8a26e7ee": {
+    "label": "phish",
+    "confidence": 0.9266666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.94
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7ddeaf3017784f256fe8d988ed0131c8cc66dac6ef8efb2df77eb07c38ae7d5b": {
+    "label": "phish",
+    "confidence": 0.8266666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.86,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bc7d071d9636ce77919cd6e0da65a18a35ebca1b06ac628205e4d0712841fefa": {
+    "label": "phish",
+    "confidence": 0.82,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.72,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3b6f28e173ad2616e299475dd924852c8cbe0a98f86f937f8ac5c5cdc3842898": {
+    "label": "phish",
+    "confidence": 0.61,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.35,
+      0.62,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|eb4feb63f63ca129e8d5c5d09a2c028e07ef8d33ab51e52586e5f6107e9e18ff": {
+    "label": "phish",
+    "confidence": 0.7999999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.81,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|87228c97b08d9c582e45755fa4d7b6ac3292e215df8c333f5e44ebe8107cd20c": {
+    "label": "phish",
+    "confidence": 0.7699999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.72,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|80010af5824946e85952a35374b67b246d768e0713395c16afa12f484da0c367": {
+    "label": "legit",
+    "confidence": 0.56,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.28,
+      0.68,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|71eecd81036ecc08c6cb02c4eb018b66042034681ef3fb80290508ae1c851bf8": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.78,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|17cab15382a8015d40c6651df16a2667b71f20bac2d43b6d68fa6fc82634fedc": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.9,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a34623c83943918943dd7ec15d14bfe50002fbc7b0e5dfa9db6f2e1d89346fb1": {
+    "label": "legit",
+    "confidence": 0.7566666666666667,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.75,
+      0.76,
+      0.76
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ccc22234abc53d650fe8fbd8f7d8e31ca5829e45acc2ad2b1ed9225161754870": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.9,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|372abe0f906b3f43846ae4de40d250ed72c97eb8df0f114e3be7565b561f3864": {
+    "label": "legit",
+    "confidence": 0.59,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.4,
+      0.75,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|656fac8fa1fc3ff207f805bdf2ff6c3158ef85d1516cc64243377f0d450fb77d": {
+    "label": "phish",
+    "confidence": 0.93,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.95,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|efe0f4f80414306b68a2caa5bd4ccce64cddf82c2f441edfab768ada6af4a1db": {
+    "label": "phish",
+    "confidence": 0.8066666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.7,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ea232e2d72678d4774a57fecc3a22ef4b70afe7c0b5591c55fba36833ee2f549": {
+    "label": "phish",
+    "confidence": 0.9066666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.9,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b81eade948ce55b4f78e9dc583d76c13fa819dc155887992db53536fff7245d6": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.83,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|58f0cb8ab20d7b3b1afdbf0d80f49499fcd6ce657fb6720f143771256a670c5d": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.84,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|de62606732b9785b9e269b8a60dd7833f25f54f4c20fb1d62c272af3d7115107": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.87,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|decb742ec28dc1a0da6c5a747592a8578ebf046938d83200523c276ae39d31a8": {
+    "label": "phish",
+    "confidence": 0.7600000000000001,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.79,
+      0.66,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d5508100c11dda07578a2f7dedd85150653e023f99065ff7b9b21081bfef0b99": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|119ec3bd4ec74c8259107a9483919e3d363ba0043e11de41ea624cafd3191e08": {
+    "label": "phish",
+    "confidence": 0.91,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.93,
+      0.9,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|24ed4b1920d2f02d254b37534854c80d251c6cf5ec10ed9375e6aa7472a71c8d": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e3684cb07d1334ff0eb998a7036ae398df80172a7fe9c80e066bfccc2cdeb975": {
+    "label": "legit",
+    "confidence": 0.5033333333333334,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.64,
+      0.52,
+      0.35
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|70a44d9662c3686ea2571da77b785506d0e82aff7f5d92ef5c6d8c30d830b06c": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a0dc22a13546cffeeb6015f1ae060de1126dbbd247e17ce6c360c479f47c932f": {
+    "label": "phish",
+    "confidence": 0.8533333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.79,
+      0.86,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e57710939381861f1a36989bc53850d3a0405a2825f0e09263bea09b77b57639": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.88,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3c48ea1ed57fe578a831d92deb1a12124736edfe85ab2a7b6bf5246f63cd8018": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.88,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c0efe8c68222afe7e8a5245648d0478463fe143da02330bb93022b8b1ca678a2": {
+    "label": "phish",
+    "confidence": 0.7866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.76,
+      0.8,
+      0.8
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|0c1c5d40b4b11eefdd31135383ebed60d5186ba731f9ff49f66375a816876694": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ab6c3cb05d96a519e9b265b3c687c8763b446b1989617566aed3a53660de28eb": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.84,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e9a76f3ece6c5568b1d1b92965712165270a4c1ab3a06e9303187ac32804b4af": {
+    "label": "phish",
+    "confidence": 0.7433333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.8,
+      0.57
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|22a90b3fc2bf49421f5670ddb6bfeacc66a647fe03c05472ceae3666cc0d7591": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.88,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d0ca42b432da2130f444a44be511209d830a335ff26f3b69c6d8cc191a9a9a8f": {
+    "label": "phish",
+    "confidence": 0.8833333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.84,
+      0.92,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|263d41f8d71bb555096355bb81f1451e232341a2257d803156ed959103043407": {
+    "label": "phish",
+    "confidence": 0.8366666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.79,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|fc03318dcd949f80f11faecd902cd881208a429dc2b1b9810bafdf848eaa3108": {
+    "label": "phish",
+    "confidence": 0.8033333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.79,
+      0.86,
+      0.76
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|876291f3ccb608010ecf75b1a290edcab1af1fe008d84042b360caa5011cd9fd": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.88,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|fafcec2da43fa86dcb6737fae7ffe6afb22bb01d9fddef6442dc9584808ab61b": {
+    "label": "phish",
+    "confidence": 0.8633333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|68ffe41f73340c637b57e7e2f6a19e914a8ce28b4e283138d5dd49a437257c44": {
+    "label": "legit",
+    "confidence": 0.5299999999999999,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.76,
+      0.45,
+      0.38
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|52ae5d7a5492ab29fde2d18b034151cdba66da080ba182869c0ef2d460180a3d": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.76,
+      0.82,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e5305b871f8bcf676b12be17052eb36335b864471e396334dcac5d6039a42b4a": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.91,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|63c783104353500064f44030ef6bda267d424d8fc6fae0a698d2cb9ee3f4bb99": {
+    "label": "phish",
+    "confidence": 0.8233333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.83,
+      0.82,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7f16a1172207f6004460bf2d9e346bcef88de9912d3dfc6219a19fd0246f8aab": {
+    "label": "legit",
+    "confidence": 0.7766666666666667,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.75,
+      0.76,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|fc240cca38a25737145e04559e0a7e7da644820ddbfb83d9fb9c4de0f61314b3": {
+    "label": "phish",
+    "confidence": 0.9233333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.95,
+      0.92,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6eca94f63476a9f1ff643e24e51e8a6142887493aea7ab468598c26913e34d94": {
+    "label": "phish",
+    "confidence": 0.91,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.91,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7bf0f050920cb843b44681bdabed4f4ceb503559a45d77aff49127fa6bca89c9": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.9,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|13e116e67e3a70c16bb22ebaa325224ff89317cfad1d7b27b2068921a2c1824c": {
+    "label": "phish",
+    "confidence": 0.8433333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.75,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7f19a66e80f7f484f1bc25067d17d728c6c384633fb10d87841fb7938437fcd5": {
+    "label": "phish",
+    "confidence": 0.82,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.82,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8c708232955e7d7d33f2c858f380d6983e2440a5baedcca46442672a253fb464": {
+    "label": "phish",
+    "confidence": 0.9066666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|0f2d9a920ac5a1e668df74a7f429c5ae154e0e424a5c3c1b75c1dc72eb685459": {
+    "label": "phish",
+    "confidence": 0.8433333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.8,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|71e5af128779d61aefa748bf8da0ed115d2ff0cae64368990404b21e301cbac3": {
+    "label": "phish",
+    "confidence": 0.8033333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.8,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b266b58ccd36076a16b832654af8bc305ac45efc03042734e927fb11ef98f086": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.86,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c8beca486bc838f647440bd7c29a55f65396974a093eac1b30e0f472184e03a5": {
+    "label": "phish",
+    "confidence": 0.7766666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.7,
+      0.84,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2122c6d5c27170f7b2438e1529a362d05d81255ee338c1b78fbe25ef0e5d9668": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.87,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c0518091dccf6dc7d15b6d6e395dff5c134265b9d0ea2266919de6e1a7722467": {
+    "label": "legit",
+    "confidence": 0.39333333333333337,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.46,
+      0.35,
+      0.37
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b978fd5cac43c09927e9edf94a426fc56d2ce1ce1a9d157e16661e7ab681bbf4": {
+    "label": "legit",
+    "confidence": 0.5766666666666667,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.36,
+      0.55
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d19685f2d4ac8d57888bd057e03df93638e69e91bbe38d4ede32cd4be11b5f0f": {
+    "label": "legit",
+    "confidence": 0.7999999999999999,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.82,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|37904257ba02a0123141b7b7e4ca6e3196f40965c4688748cd2022ce58dc71b3": {
+    "label": "phish",
+    "confidence": 0.9066666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.95,
+      0.86,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b13bfb8a7fa5d798754b7966d62c6cebd682d35b4ef0538936c19256e2a621e8": {
+    "label": "phish",
+    "confidence": 0.8366666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.87,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c2dc86361452dd827cd57d25aa0e9f77208440c813166b6be6406af1c9b73047": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|63f7fda2fff7957b7c79d7763bb2ac8e1467074467394cf8d030d4fad6d332d5": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.9,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|956a335028d1829c9c800406c516501971b2698aab9ed148ed7acfba2615d9ca": {
+    "label": "phish",
+    "confidence": 0.7566666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.77,
+      0.72,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ac070f9c02fdda898d20c4f08f3c3cb5573ee1d9a9c4315e68e90aa6443e1546": {
+    "label": "legit",
+    "confidence": 0.54,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.46,
+      0.38,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6fedb813be35f596e9982bfc12d656a92eebca730e3e0d202248702b2cf113a2": {
+    "label": "legit",
+    "confidence": 0.5866666666666668,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.52,
+      0.66,
+      0.58
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3674ccce47e7cb0051812a23bb235820eb074455d9b2a8684060c685c08f9b9d": {
+    "label": "phish",
+    "confidence": 0.8833333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.87,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ee3dbab8411af02358a8430ba546c852bcb850b94325baba717c91a9726a7fd5": {
+    "label": "legit",
+    "confidence": 0.4000000000000001,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.31,
+      0.52,
+      0.37
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3156a53ef833b5b0b5dab441a9cd6307f6b339787566d2597e41f950bad9c4e6": {
+    "label": "legit",
+    "confidence": 0.5233333333333333,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.56,
+      0.74,
+      0.27
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|773a6aeb052e77415784e585f5d7362c09f03e01e98ace4e8d9c09bdd1bd6a61": {
+    "label": "phish",
+    "confidence": 0.8066666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.82,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b81be74bda0605effd053ef04f5141b74bb338d146fdaee356c95d26f119040b": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|783e8b2159ef7f140249c618f3e5691ef082f59b82595cb9a4ceb1f5c72d4083": {
+    "label": "phish",
+    "confidence": 0.7733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.82,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8eba9bb67b4889022b94173d264e55daa156dd78ae34ec01861557bfea4e66de": {
+    "label": "phish",
+    "confidence": 0.7466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.68,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|85602039bc7dd72bd0af5acc33ef0ebf87581c1472d478fdbe19a46690e9c12b": {
+    "label": "phish",
+    "confidence": 0.89,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.93,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|dc913fc5130f37e583da0c2b679ca0cebe77ca35ba77271d44314ca48509afb5": {
+    "label": "phish",
+    "confidence": 0.8566666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.84,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6c6e108027f0d6b34514d3b3376f57a1b4facca44b9f6d86b699b7a97ab35e3b": {
+    "label": "phish",
+    "confidence": 0.7966666666666665,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.7,
+      0.83,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cd9bd96cd7ba097ff44eb424cb12016764cdc76590c6cbf927de4dc6b0589b6a": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ea3081722a8df714c281d57ea027f1ca0ab0a62c9c771ad792f116acfe45b83b": {
+    "label": "phish",
+    "confidence": 0.82,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.82,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|781a3e31b9ce02fdfe8ef8fd124ac45977d715e4a4d2f555107cc018b7cb5062": {
+    "label": "phish",
+    "confidence": 0.89,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.9,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|78005d9d2ea517a2e2dd2107c5f33d81d136e7b8ad6b159d49492a48c018d6bd": {
+    "label": "phish",
+    "confidence": 0.6933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.81,
+      0.63,
+      0.64
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2306e0ec825aca2af77d1b9ca607f74a6a2c33e2449bd243746706afac7d6b8d": {
+    "label": "legit",
+    "confidence": 0.49000000000000005,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.65,
+      0.19,
+      0.63
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d9f5bb74a5cec8b55281254cc63ddde833d7164acbe95ae9aad4c49184d167c8": {
+    "label": "phish",
+    "confidence": 0.8433333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.92,
+      0.76
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f1cda7274eaa73258953ad4e2e90ee7cd0cab1010f00815c5d6b7a5bd0b8afe6": {
+    "label": "legit",
+    "confidence": 0.7166666666666667,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.77,
+      0.6
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|77628bf787a825d3d5c156ece3d6c3bc07adde27f8b7279f33da90373d92c98c": {
+    "label": "legit",
+    "confidence": 0.6966666666666668,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.67,
+      0.55,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|999355b0af2d473820b2d6eb00271277d1fd9a8c9d8fa22645c4f3c7e0392a39": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|faf41e6d6a48783859ddaa2bb92b7c32d56656380b0e24ab72d0c90421b3fabd": {
+    "label": "phish",
+    "confidence": 0.8633333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.85,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|78593e573c688def33bc1bdcfff80d96c6c855122e7be06afce013c6c830b2bd": {
+    "label": "phish",
+    "confidence": 0.6166666666666667,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.34,
+      0.72,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b124afb1a7ace355d92598a8b7f6a43e9b45bc95ba8e85e42eb4de18efc35295": {
+    "label": "phish",
+    "confidence": 0.7866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.76,
+      0.82,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|632b2523aede7935319ac0aa6b198e5f1a6c21b2e72744ed2cd5b3d1d1c0ad45": {
+    "label": "legit",
+    "confidence": 0.5633333333333334,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.35,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5db4f62d87ca48339378e9308de58042a5c4722844ed5a092ae2ba78c76d2ad3": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.92,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ce5edaded6835323cd89ddcf934430ba5f4d56a4b17de5859aa20f029dedac17": {
+    "label": "phish",
+    "confidence": 0.8133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.77,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ad90a8da7206bec0da2b2c1ab7aa41f4a026b96a5ba3284e35e5b2b782f04b03": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.83,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|69aec8e69d071d622934691f94cfe5c11886373d6638300a84a0b615186e4600": {
+    "label": "phish",
+    "confidence": 0.8766666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.91,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8c344d113be1ebf5c42af9d0d347241dbb5832f1b11646dbbc81fa4b277d6fa3": {
+    "label": "phish",
+    "confidence": 0.8266666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.86,
+      0.84
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f39070e746f7b90aade7a4765f24dd4c24584e4b39788a91edb90583d7230e8b": {
+    "label": "phish",
+    "confidence": 0.7899999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.71,
+      0.84,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8fa443ec7426ebfaf4d32aefcbfac538768d6ab2843f03fdf3c05ed36f281569": {
+    "label": "phish",
+    "confidence": 0.8066666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.85,
+      0.67
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|32da990d24961425e0e209654111bc63d12758bd71647853f88cf9e8a9d7e705": {
+    "label": "phish",
+    "confidence": 0.75,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.7,
+      0.78,
+      0.77
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7fb5d71d8ed04a7871c9ff7ebe086c9a1c70c71a5419838c2bf7f26b9ba42431": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.92,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|84fad4934c69a7812406e51fcaf33ca2e446af5843a78cc98de4a8e72cf6c887": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|3b892a41548f327e88f779fb5162f5002dce45dd122fe81919a66a6cdde2bc4e": {
+    "label": "phish",
+    "confidence": 0.9066666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.93,
+      0.92,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6e383e717ee56c803dd5ef3d1f95452da5e459f1a2834bb49732765e3f8a84ef": {
+    "label": "phish",
+    "confidence": 0.5733333333333334,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.59,
+      0.46,
+      0.67
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e245c43f029d050c29801cf0b3e12d66f59711f96907c0b6d8379dbb73272ff1": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.89,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2a6b0c223f3835152e903c8867d09ec4ee38fd348a9de283936dce9da468f26d": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5b597dafa9c7aa2f90f1b72c8d6ce2424f6c73a6eeb4b6208da5d713662d8d05": {
+    "label": "phish",
+    "confidence": 0.6699999999999999,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.63,
+      0.64,
+      0.74
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7204f1323c0f41c26e8d139cbd2f75128bcec5ada07d202936e51a9dc29170e3": {
+    "label": "phish",
+    "confidence": 0.6533333333333333,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.55,
+      0.79,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b990ece5ecee8432c3cebf747152f31772f23a919304c6e2e761cfc53947d31c": {
+    "label": "phish",
+    "confidence": 0.85,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.79,
+      0.9,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6684b5cf8a61e03709565cedf7cb2fea664f8dde6b66cbf24656477d4d63be46": {
+    "label": "phish",
+    "confidence": 0.91,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.9,
+      0.97
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5e61529b99e5fad241eea76ea446033c12260c1569d1ca1372024d316652e51c": {
+    "label": "phish",
+    "confidence": 0.82,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.84,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|53d0d0ed03aadffb26ec170a99253934a0e8c951b12552d839b878de0849b51a": {
+    "label": "phish",
+    "confidence": 0.6266666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.52,
+      0.71,
+      0.65
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|196648580be0d0f140ed28c8d0113bbd97b4deca6e1fa5730b545634a53057fe": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.91,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|dae9092f890f78df4537ad237b2e6388ac68feaf4ef40b3a4d68167afb54c62e": {
+    "label": "phish",
+    "confidence": 0.8433333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.82,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|aa3e5fc30012d5923def47e59aca7386c078286ce0b1a489fe9377b2ce2bf14d": {
+    "label": "phish",
+    "confidence": 0.8766666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.82,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bf17f4627368a40075a9f2a94ddf1aa06055a0af48894b2e9ef40a7457ffc528": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.82,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f929e4032c8915d6e007aac006110d8ebab6b6485911de548187cc8b87ecb48f": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.8
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|76d0e3ff9ec1790c9bf3738fde1b0cc12ec8393e9408bd642dda6251491d33b2": {
+    "label": "phish",
+    "confidence": 0.8233333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.92,
+      0.64
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|aaa07a5a70a99f4def7f029a180e69a2202fbbf270540f2209d1210d8a65017e": {
+    "label": "phish",
+    "confidence": 0.8266666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.83,
+      0.86,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8ab5d14e8fedee68b4ca5edb8cac02c4364a10d1afbdb2e91d91682a182c1cea": {
+    "label": "phish",
+    "confidence": 0.5666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.62,
+      0.62,
+      0.46
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|1ab54e63fa2607878a2493fdd578cc29912a6c21895a6e09ba64d302faf53959": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7bc806d72e8324427edbf57c436d32afab042c265531270c5e22af322ae4c2e8": {
+    "label": "legit",
+    "confidence": 0.6633333333333332,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.62,
+      0.55,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f451038b374985c37845245cd15865c1aef5e42da8c0c30a87ccf1e52146acb7": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.91,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|26f3d560ad27d304f904fec210955b33f5382e646915b2881dca8c40cba15d54": {
+    "label": "phish",
+    "confidence": 0.7999999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.82,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f7c2630ce152b859d2cd01b74fd3f0edcf9e911cc8f0fd8f9faf61a4126f5aa3": {
+    "label": "phish",
+    "confidence": 0.9033333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.91,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|12ccd646a12fd3c39e9c56be0b13b801144bb041d0597f6ca0f4c54a1bce6830": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.91,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|11445c48d74165f5448066cb34ca4c1188ecca8158727f16923d5efeb833409c": {
+    "label": "phish",
+    "confidence": 0.8133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.76,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|17ff49d69603dcd4e40873c5fb87c80f1d645fa8cd7f8a1e6d848a6977e016a3": {
+    "label": "phish",
+    "confidence": 0.8766666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.92,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6f157192fd32f13bae61ddc67e53623d4a3827536a7ecfeac53b554f26de4519": {
+    "label": "phish",
+    "confidence": 0.85,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.87,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5d34db8d11d7fb2dbd988b1b9a448ce31c21773fddee6d0ddf76a6d30a4bd7bf": {
+    "label": "legit",
+    "confidence": 0.6166666666666667,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.62,
+      0.63,
+      0.6
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f379e7259e5c47e6d6220ecbcef25774f86b4aaa1721c78e40fecaa4df368e15": {
+    "label": "phish",
+    "confidence": 0.8733333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.9,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|c1be4765205ccdb63cc4d2e21d4b50f46fe0be211281b943fa0ad89b9b6f129b": {
+    "label": "legit",
+    "confidence": 0.68,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.72,
+      0.63,
+      0.69
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|fab5d1325124057e5065294128bd359c558b5c9aaec534143a18aadb32efc42f": {
+    "label": "phish",
+    "confidence": 0.9033333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.9,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|75f2849fa97784e9dddc0f1454ef8bc293d3765debe08aa150e1856e1032619f": {
+    "label": "legit",
+    "confidence": 0.61,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.62,
+      0.81,
+      0.4
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2747af71ec960bd976cd379ffbf2e4df7514e5e12e4ec1026207cae4e0b6f4e9": {
+    "label": "phish",
+    "confidence": 0.6766666666666666,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.84,
+      0.37
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|99603cb929c4ef04402b0f22e2c6552ae1457ba25d5160bc4d7eb5eea135f207": {
+    "label": "legit",
+    "confidence": 0.6966666666666667,
+    "vote_counts": {
+      "phish": 1,
+      "legit": 2
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.69,
+      0.61,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|06cd038e60c290c81837144f792081a45b31c3c45f79600ef810dd312a0bd55e": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.8,
+      0.86,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|403f24d786fc2272a390217ce4b5579fbdcd70ab45f91b5de1af8cfccdf40305": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|24b7aee04354bd63528a91f807dc866beea8d619e14a4a409b5d44b252e334b0": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.9,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|50ed3e6e855784082e096a674e585505d2451346a086d140bc64e96ee654b1ee": {
+    "label": "phish",
+    "confidence": 0.9166666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.93,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|608755e3216c929416b988bd11dddbceb9d5d20fd6592f4142b2c8a46f487298": {
+    "label": "phish",
+    "confidence": 0.6733333333333333,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "phish",
+      "legit",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.34,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|13c59c4982f642658b08a0dec6c54421133315dba65003e901d8e848409a0dc9": {
+    "label": "legit",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.8,
+      0.92,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8135282eb28033c5e15b3b7dd084a1b5e4bd8ada780d53aca6558d97db3f6038": {
+    "label": "phish",
+    "confidence": 0.8066666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.76,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|258e06db555a8f1a7f9ec525275cc6a7ae8ace89e0e14b0bb734fe592bd5f23b": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|62354835250645e7122ba315d3918c964b4e28584bb170375cd9d52bdd1ab827": {
+    "label": "legit",
+    "confidence": 0.4766666666666666,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.24,
+      0.47,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f7bdaaea6b584e2efc561ed0797d34525d7e1995ed3b181925e0570ea4c1c147": {
+    "label": "legit",
+    "confidence": 0.5533333333333333,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.35,
+      0.69,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|21511d429c049ab8d4299db4aadb5804b0dd8eaf46c6ae6091882b5c14e88171": {
+    "label": "phish",
+    "confidence": 0.8566666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.82,
+      0.92,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|871b8f24bf8d9a009a59a424916c5721d9237c1fe0cf27e7cbd34f9e162e0646": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.88,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|2c5732183164640e57464e1830dce77bdf7b965908bfb29f694d1b40538f3cc9": {
+    "label": "phish",
+    "confidence": 0.9233333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.92,
+      0.95
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|9ab3432c8a78ebac1f35c2a18f480a96ffbdb212155491c4884d4d94b9cac53c": {
+    "label": "phish",
+    "confidence": 0.7866666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.76,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|095e17a3fd0bc4d0a62da7ed12171f60e2e2937e2d74d62d1191b761bf9458b8": {
+    "label": "phish",
+    "confidence": 0.7433333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.73,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|4b2ff77e276232e1f58314cf05b5903e87129add6c1ba3a727b8c503ff52d3c6": {
+    "label": "phish",
+    "confidence": 0.91,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.93,
+      0.9,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|49f67b318d3c3b9b9ea08978a03edd177bce940c780d0dc0af29aabbf35862e0": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.86,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|70207fe9e574bf1ddc7a6da103e9d7ac87817b6a2ec094e68455e2a96582c526": {
+    "label": "phish",
+    "confidence": 0.8966666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.92,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6be4eb64891285d36d84becf1c08e1969de22227ae6142951ad92187c0e6850b": {
+    "label": "phish",
+    "confidence": 0.86,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.82,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|94b83c0a15ff90483dfb92a655910eddd4943716df380deaec008dce76544a35": {
+    "label": "phish",
+    "confidence": 0.73,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.73,
+      0.78,
+      0.68
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|209be069a154ce62a756ea60c4cd0c50a6b12259269ba150558858944eae4cf7": {
+    "label": "phish",
+    "confidence": 0.9233333333333333,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.93
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|7d5716956428aa5689be17b11d91c995888dfc79db8a259f3552f237834a62db": {
+    "label": "legit",
+    "confidence": 0.5866666666666666,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.42,
+      0.72,
+      0.62
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5bba52d98450b8435157f83090268b5b61775e9fd963ebf6e4aa4e6c21559a4e": {
+    "label": "legit",
+    "confidence": 0.8433333333333333,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.85,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|242710b708080bec8cbdbba255e809d61f7220eb5f56c39a04f05f5bfa867b47": {
+    "label": "legit",
+    "confidence": 0.5666666666666667,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.48,
+      0.76,
+      0.46
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5c34dbb31a913b6b499c959011593b3c4a1ab27bc974754bf6c7ded65870da3b": {
+    "label": "phish",
+    "confidence": 0.77,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.75,
+      0.78,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e94ec7595836d7812c1bfe68d00caaec0fd095a9d8f14811f40a73d30a12d4bc": {
+    "label": "phish",
+    "confidence": 0.7966666666666665,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.89,
+      0.74,
+      0.76
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|271b1166cad4cace0ca0c43e3e9c2c9c290c6d84935d4b51262488c6be767932": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.9,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|0e583108db0432508394ce1ce595649a855a405672468ea6f594c558bc8c44cd": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.81,
+      0.86,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5e102361a059abbe9a6f8b219e7aa7296135db195a0fdff112d69e2f4b2c4781": {
+    "label": "phish",
+    "confidence": 0.8266666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.82,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|73a3f924237f05178e8813cf99bee0bfe2ab63ff17e179b1491ba0540b5a0aa3": {
+    "label": "phish",
+    "confidence": 0.8166666666666665,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.81,
+      0.82,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|f598b7ea16623f61f65e8f535c12d233895e88d14e8b753b01f1621ceabaaf20": {
+    "label": "phish",
+    "confidence": 0.89,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.9,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|006434cff1c44eec68942a07f05d8c9a7c5330256f58d83adb92d0bb59bae255": {
+    "label": "legit",
+    "confidence": 0.4666666666666666,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.33,
+      0.69,
+      0.38
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|5fe2558561b0556b51d96d7b9a4c642eed9e43ace830c1c2f915de1ae3247200": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|0e8a9fee340b0ce80a56049a3b735e8ec9160523d50f18d2ade366a6d314927f": {
+    "label": "phish",
+    "confidence": 0.8466666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.87,
+      0.77,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|1bd44cb9b7829e8c2d76adacb4f766ce4af94f8200d54c6c49d3265f3b78c3e6": {
+    "label": "phish",
+    "confidence": 0.8566666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.86,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|763a59f67f0f9ba1bd3c4589457928b8a4ec420b7381b3786148f4591042368e": {
+    "label": "phish",
+    "confidence": 0.9066666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.92,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|475f6270bc8b58d46c398d66c87782cdab2ec578b04bb320a23f51a7b4fdf82b": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.87,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b0911f30885bb7aec6ddc14053a1fd0c4266c0e5482cfee16fc068b03b99294e": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.82,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|dae8af34dd4233e8494709959b46887c20b67c2027735cc3fb7f3676c2850e87": {
+    "label": "phish",
+    "confidence": 0.7999999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.77,
+      0.77
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|14e32d4934bea78f66d3d15c035ec7c3e2715c33a954d5e2e441c55fbbfc8c53": {
+    "label": "phish",
+    "confidence": 0.8566666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.86,
+      0.85
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b830830317c648f097e6c4e2a8c4968a1f2eb65994437bb320d4d2e6fab8ae22": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.82,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|e605c440b5aa75de9ef8177d85b6e9f4e6f751177f42a4b9765a1d9a5c992795": {
+    "label": "legit",
+    "confidence": 0.7166666666666668,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.65,
+      0.78,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|d91fc9034cf3022f12f29d98097061e7c8617d26061647dad0151cbea8204ad1": {
+    "label": "phish",
+    "confidence": 0.8333333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.78,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6ab1ccda76acbf9680b0f04ad7729033b4a411bbb3ce5c3701c9ddce1ab2a45b": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.91,
+      0.91
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|56945ccb90b73e5c7dd63dd8c816aa48791153e2f0d43ac8c430744f150070ff": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.78,
+      0.92,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cca51e3d2527c3a2e5aceee5851f95344a448e54476e890f3c43ba0ba77c675c": {
+    "label": "phish",
+    "confidence": 0.5933333333333333,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.26,
+      0.85,
+      0.67
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|19adb7aee70747b54b8e2d8e1d928f1609e41436edd20c832a5d6a2641d84f7e": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.91,
+      0.9,
+      0.83
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|ac87e7fe83f33f1714e8adf89d357f18d3722519cdd5afc9640d74f425e2dcb4": {
+    "label": "phish",
+    "confidence": 0.7866666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.76,
+      0.78,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|78d0dff5ba76153b74bb9b5985890564958c46309675beedd52bad0ec4ebb5b7": {
+    "label": "legit",
+    "confidence": 0.49333333333333335,
+    "vote_counts": {
+      "phish": 0,
+      "legit": 3
+    },
+    "raw_labels": [
+      "legit",
+      "legit",
+      "legit"
+    ],
+    "raw_confidences": [
+      0.75,
+      0.56,
+      0.17
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|00edfb33f955ac14d23a75b09d9744d8530c68304024c6087192f8418b77229e": {
+    "label": "phish",
+    "confidence": 0.84,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.87,
+      0.79
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|74b034a966bf1360f2889137c9796e72ebfd80270191daac586287988d08de9a": {
+    "label": "phish",
+    "confidence": 0.8533333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.88,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bf987d17498e2565b3a6dbfa16e59085450ef90d3ed338b4513ba6c0d0d8b46f": {
+    "label": "phish",
+    "confidence": 0.9166666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.95,
+      0.92,
+      0.88
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6c2d427c9c84099cb3432a1139877b2e1460cf40aa82608335d8156c7af05eb1": {
+    "label": "phish",
+    "confidence": 0.93,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.92,
+      0.95
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|b0bb3a961c351a50e84c3e35512ce6f789bfce5e1c588e8c16c4d48200034327": {
+    "label": "phish",
+    "confidence": 0.8666666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.84,
+      0.86,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|aebb728bb02d6e9497b8a18f4c960d9d04f8349d908b3e4ec0c9d9b4e82a6d10": {
+    "label": "phish",
+    "confidence": 0.79,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.73,
+      0.78
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|1e32c6a2962170eafb3bf0b376474872e4f5d933982ec58eeade22e23503ece9": {
+    "label": "phish",
+    "confidence": 0.6566666666666666,
+    "vote_counts": {
+      "phish": 2,
+      "legit": 1
+    },
+    "raw_labels": [
+      "legit",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.37,
+      0.78,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|dd80232d39a2e04ec8beed339c4dc5957b8dc7154f89af24386585226205fd25": {
+    "label": "phish",
+    "confidence": 0.87,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.9,
+      0.86
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|1561e59b8e27c7fa998619b29e1a4e5a6cdf281da0c1b210db77415ebc547d21": {
+    "label": "phish",
+    "confidence": 0.7899999999999999,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.7,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|703bf5742b61b1600867949822c4af16d57c174a40a850ae6c1896f1d8fb9105": {
+    "label": "phish",
+    "confidence": 0.89,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.88,
+      0.92,
+      0.87
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|8b6a7f1f7809fe21206b8c7144835e69b46fd75becaab8efd0b24a1c11713345": {
+    "label": "phish",
+    "confidence": 0.9133333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|9e0696421b99deff015ba6ff6ada4a20065849e48de3fefad8397bb80b19cf80": {
+    "label": "phish",
+    "confidence": 0.9,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.92,
+      0.92
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|4bb0d9009653f7e9eb16dfd0e20862567628ed062fc9ae2b6f30fa9bc6f91808": {
+    "label": "phish",
+    "confidence": 0.7833333333333332,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.85,
+      0.78,
+      0.72
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|cb7629e98111b401e6753c2a79fa3fc681ab3b30d4474ccb2e7f99e09033fd72": {
+    "label": "phish",
+    "confidence": 0.8933333333333334,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.92,
+      0.87,
+      0.89
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|a3fceea8fa25c14184facd1dee168961b7674c11e512b9a6788ad352f8175715": {
+    "label": "phish",
+    "confidence": 0.88,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.92,
+      0.82
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|6b01d597e2f1ecd52835743d183f5c127898d43591c826f1a5f5c8ef412200d3": {
+    "label": "phish",
+    "confidence": 0.8866666666666667,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.9,
+      0.86,
+      0.9
+    ]
+  },
+  "gpt-5-mini|gpt5zs_v1|eff=minimal|votes=3|bd726130d5f05a6f86517326369535bfb2390ccdaf3a28584b965b937472ab3d": {
+    "label": "phish",
+    "confidence": 0.8766666666666666,
+    "vote_counts": {
+      "phish": 3,
+      "legit": 0
+    },
+    "raw_labels": [
+      "phish",
+      "phish",
+      "phish"
+    ],
+    "raw_confidences": [
+      0.86,
+      0.87,
+      0.9
+    ]
+  }
+}

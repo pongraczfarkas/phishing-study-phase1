@@ -11,7 +11,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support, confusion_matrix
 from sklearn.model_selection import StratifiedKFold
 
-from plots import ensure_dir, plot_metric_bars, plot_deltas
+from experiments.common.plots import ensure_dir, plot_metric_bars, plot_deltas
 
 def read_jsonl(path: Path) -> pd.DataFrame:
     rows = []
